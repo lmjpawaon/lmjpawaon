@@ -7,7 +7,17 @@
 <a href="https://www.freecodecamp.org/louispawaon"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></img></a>
 </p>
 
+<p align="center">
+<img align="center" alt="almighty" src="https://raw.githubusercontent.com/miggypaw/miggypaw/main/yhwach-almighty.gif" style="max-width;100">
+<br>
+👹| let me show you how it is done |
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=miggypaw&show_icons=true&theme=tokyonight">
+  <br>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=miggypaw&theme=tokyonight&hide_border=true">
 
+</p>
 <!---- 👋 Hi, I’m @miggypaw
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
