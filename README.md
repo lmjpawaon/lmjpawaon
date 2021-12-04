@@ -13,9 +13,9 @@
 👹| let me show you how it is done |
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=miggypaw&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmjpawaon&show_icons=true&theme=tokyonight">
   <br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=miggypaw&theme=tokyonight&hide_border=true">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lmjpawaon&theme=tokyonight&hide_border=true">
 
 </p>
 <!---- 👋 Hi, I’m @miggypaw
